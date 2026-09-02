@@ -4,7 +4,9 @@ A browser bookmarklet for editing Microsoft Dataverse / Dynamics 365 / Power App
 
 It recreates the core **Easy Translator** workflow in a bookmarklet, making it useful on locked-down machines where installing XrmToolBox or browser extensions is not possible.
 
-![Easy Translator export options](images/easy-translator-options.png)
+<img width="1319" height="760" alt="Screenshot 2026-09-02 085938" src="https://github.com/user-attachments/assets/c0a99340-fc71-492b-a679-4d97345a97db" />
+
+<img width="1318" height="760" alt="Screenshot 2026-09-02 090207" src="https://github.com/user-attachments/assets/a1da6a3d-b5ee-40b1-bd52-c34f625cfee4" />
 
 ## Why a Bookmarklet?
 
@@ -33,8 +35,6 @@ There is no separate executable to install and no additional sign-in. The bookma
 7. Edit labels directly in the workbook-style grid.
 8. Review the pending changes.
 9. Click **Save and Publish** to write the changes back to Dataverse and publish the affected customizations.
-
-![Easy Translator translation editor](images/easy-translator-workbook.png)
 
 ## Translation Types
 
@@ -97,16 +97,3 @@ The original Easy Translator plugin for XrmToolBox is maintained by **MscrmTools
 - XrmToolBox: https://github.com/MscrmTools/XrmToolBox
 
 If you are able to install and run XrmToolBox, the official Easy Translator plugin is also worth using.
-
-## Repository Layout
-
-```text
-EasyTranslatorBookmarklet/
-├── EasyTranslatorBookmarklet.txt
-├── README.md
-└── images/
-    ├── easy-translator-options.png
-    └── easy-translator-workbook.png
-```
-
-If you store the bookmarklet under a different filename, update the layout above accordingly.
