@@ -97,3 +97,7 @@ The original Easy Translator plugin for XrmToolBox is maintained by **MscrmTools
 - XrmToolBox: https://github.com/MscrmTools/XrmToolBox
 
 If you are able to install and run XrmToolBox, the official Easy Translator plugin is also worth using.
+
+## License
+
+Released under the [MIT License](LICENSE).
